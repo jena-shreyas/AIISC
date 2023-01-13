@@ -25,7 +25,3 @@ Upcoming :
 - Use of `Min-Max Suppression` to remove the small point-sized bbox annotations produced.
 
 Hope you find this work useful ;)
-
-Here's a sample annotated synthetic image produced by our approach :
-
-![daam_bbox_dress](https://user-images.githubusercontent.com/85274016/212363996-f728664d-681e-4d3c-b3de-4d7c4e073a35.png)
